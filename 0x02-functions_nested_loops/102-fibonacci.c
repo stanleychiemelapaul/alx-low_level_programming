@@ -29,6 +29,6 @@ int main(void)
 		k = next;
 	}
 
-	return (o);
+	return (0);
 }
 
