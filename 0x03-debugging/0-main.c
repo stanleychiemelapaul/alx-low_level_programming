@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* Testing if function prints positive or negative number
-* Return 0
+* main - Testing if function prints positive or negative number
+* Return:  0
 */ 
 int main(void)
 {
