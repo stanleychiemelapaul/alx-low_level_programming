@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** trcat - a function that concatenates two string
+/** 
+* trcat - a function that concatenates two string
 * Return: two concat strings
 */
 
