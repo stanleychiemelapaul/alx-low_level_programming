@@ -5,7 +5,7 @@
 * @n: input string
 * Return: caps on first letter of a separator
 */
-char *cap_string(char *n)
+char *cap_string(char *s)
 {
 	int count = 0, i;
 
