@@ -1,8 +1,10 @@
 #include "main.h"
 
-/** 
-* trcat - a function that concatenates two string
-* Return: two concat strings
+/**
+* _strcat - concatenates two strings,
+* @dest: destination.
+* @src: source.
+* Return: the pointer to dest.
 */
 
 char *_strcat(char *dest, char *src)
