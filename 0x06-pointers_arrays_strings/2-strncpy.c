@@ -1,7 +1,8 @@
 #include "main.h"
 
 
-/** A function that copies a string
+/** 
+* A function that copies a string
 * Works lke strncpy
 */
 
